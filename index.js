@@ -5,6 +5,13 @@
  var prevent;
  var medicine;
  var meddes;
+let button= document.getElementById("btnn")
+let symp_orgdis= document.getElementById("10")
+ let symp_desease= document.getElementById("11")
+ let symp_cause= document.getElementById("12")
+ let symp_medicine= document.getElementById("13")
+ let symp_meddesc= document.getElementById("14")
+ let symp_prevention= document.getElementById("15")
  function getData(){
     url = "http://127.0.0.1:5502/diseases.json"; 
     fetch(url).then((response)=>{
@@ -51,6 +58,34 @@
           console.log(prevent);
           console.log(medicine);
           console.log(meddes);
+
+          button.addEventListener("click",function(e){
+            symp_desease.innerText= des;
+            symp_cause.innerText= cause;
+            symp_medicine.innerText=medicine ;
+            symp_meddesc.innerText=meddes ;
+            symp_prevention.innerText= prevent;
+            symp_orgdis.innerText=p;
+
+            symp_orgdis.style.width="79vw";
+            symp_orgdis.style.height="9vw";
+            
+            symp_desease.style.width="79vw";
+            symp_desease.style.height="9vw";
+            
+            symp_cause.style.width="79vw";
+            symp_cause.style.height="9vw";
+            
+            symp_medicine.style.width="79vw";
+            symp_medicine.style.height="9vw";
+            
+            symp_meddesc.style.width="79vw";
+            symp_meddesc.style.height="9vw";
+            
+            symp_prevention.style.width="79vw";
+            symp_prevention.style.height="9vw";
+          })
+            
             
         
      }

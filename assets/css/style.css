@@ -317,15 +317,15 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.5s;
   line-height: 1;
   margin: 10px;
-  color: #aaeb97;
+  color: #fafdf9;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
-  border: 2px solid #000000;
+  border: 2px solid #fcfafa;
 }
 
 #hero .btn-get-started:hover {
-  background: #4e4e50;
-  color: #fff;
+  background: #3d0202;
+  /* color: rgb(7, 7, 7); */
   text-decoration: none;
 }
 
@@ -638,27 +638,37 @@ section {
 
 
 .main_feature{
-  width: 10vw;
-  height: 3vw;
-  border: 2px solid black;
+  
+  width: 20vw;
+  height: 10vw;
+  border: 2px solid rgb(114, 1, 1);
+  color: #5f0101;
 }
 #abc{
   width: 10vw;
   height: 3vw;
-  border: 2px solid black;
+  border: 2px solid rgb(121, 3, 3);
 }
 .main_feature{
   width: 20vw;
   height: 3vw;
-  border: 2px solid black;
+  border: 2px solid rgb(110, 3, 3);
   padding: 2px;
   margin: 10px;
+  border-radius: 12px;
+  padding: 5px;
+  color: #5f0101;
+  font-weight: bolder;
 }
 #abc{
   width: 10vw;
   height: 3vw;
-  border: 2px solid black;
+  border: 2px solid rgb(107, 4, 4);
   margin: 10px;
+  border-radius: 12px;
+  padding: 5px;
+  color: #b80b0b;
+  font-weight: bolder;
 }
 .super_main{
   align-items: center;
