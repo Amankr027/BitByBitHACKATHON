@@ -1,0 +1,153 @@
+Cholera:
+    vomiting
+    dehydration
+    low blood pressure
+    muscle cramps
+
+Goiter:
+    weight loss
+    rapid heartbeat (tachycardia)
+    increased sensitivity to heat
+    excess sweating
+    tremors
+    irritability and nervousness
+    muscle weakness
+    frequent bowel movements
+
+Tuberculosis:
+    coughing up blood or mucus
+    unintentional weight loss
+    chest pain
+    pain with breathing or coughing
+    night sweats
+    chills 
+
+Migraine:
+    headache
+    severe throbbing pain
+    pulsing sensation
+    nausea
+    vomiting
+
+Alzheimer's disease:
+    forget about recent conversations or events
+    misplace items
+    ask questions repetitively
+    become less flexible and more hesitant to try new things
+    show poor judgement or find it harder to make decisions
+
+Conjunctivitis:
+    redness
+    itching
+    tearing
+    burning sensation
+    crusting of the eyelids
+
+Malaria:
+    fever
+    flu-like illness
+    muscle aches
+    diarrhea
+    nausea
+
+Influenza:
+    fever
+    coughing
+    sore throat
+    runny nose
+    stuffy nose
+    fatigue
+    headache
+
+Allergy:
+    inflamed, itchy nose and throat
+    sneezing
+    puffy, watery eyes
+    stuffy nose
+    runny nose
+    eye irritation
+
+Monkeypox:
+    swollen lymph nodes
+    exhaustion
+    respiratory symptoms
+    muscle aches
+    backache
+
+Diarrhea:
+    Avoid foods that are milk-based, greasy, high-fiber, or very sweet because these are likely to aggravate diarrhea.
+    Avoid caffeine and alcohol.
+    Avoid high sugar drinks, like apple juice, grape juice, and soda, which can pull water into the intestine and make the diarrhea persist.
+    Decrease level of exercise until symptoms are gone.
+
+Dengue Fever:
+    eye pain
+    fever
+    muscle pain
+    bone pain
+    headache
+    nausea
+    vomiting
+
+Hepatitis:
+    light-colored stools
+    jaundice
+    dark urine
+    abdominal pain
+
+HIV/AIDS:
+    swollen glands
+    upset stomach or diarrhea
+    muscle pain
+
+Monocucleosis:
+    fatigue
+    swollen lymph nodes
+    spleen
+    loss of appetite
+    muscle pain
+
+Corona Virus:
+    fever
+    coughing
+    fatigue
+    loss of taste or smell
+
+Sexually transmitted diseases
+    unusual discharge from the vagina, penis or anus
+    pain when peeing
+    unusual vaginal bleeding
+    itchy genitals or anus
+
+Cold and flu:
+    fever
+    headache
+    fatigue
+    dry cough
+    runny nose
+    stuffy nose
+    sneezing
+    sore throat
+    coughing
+     
+cancer:  
+   persistent cough or trouble breathing
+   changes in bowel or bladder
+   skin changes, such as yellowing, darkening or redness of the skin, sores that won't heal, or changes to existing moles
+   weight changes, including unintended loss or gain
+   lump or area of thickening that can be felt under the skin
+   nagging cough or hoarseness
+   breast lump or breast discharge
+   
+asthma:
+    wheezing
+    coughing
+    fainting
+    exhaustion
+    dizziness
+    drowsiness
+
+ 
+     
+    
+    

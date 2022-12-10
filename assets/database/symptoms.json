@@ -1,0 +1,356 @@
+[{
+  "_id": {
+    "$oid": "639371e0e1edb8f867afe3eb"
+  },
+  "name": "vomiting",
+  "diseases": [
+    "You can get vomiting in normal cold and flu.",
+    "Migraine",
+    "Dengue Fever",
+    "Cholera",
+    "Diarrhea"
+  ]
+},{
+  "_id": {
+    "$oid": "6393733ae1edb8f867afe3ec"
+  },
+  "name": "dehydration",
+  "diseases": [
+    "It can occur if one is not drinking enough fluid or is losing more fluid than you take in.",
+    "Cholera"
+  ]
+},{
+  "_id": {
+    "$oid": "63937372e1edb8f867afe3ed"
+  },
+  "name": "low blood pressure",
+  "diseases": [
+    "Low blood pressure happens in preagnancy and certain medical conditons.",
+    "Cholera"
+  ]
+},{
+  "_id": {
+    "$oid": "639373bae1edb8f867afe3ee"
+  },
+  "name": "weight loss",
+  "diseases": [
+    "Weight loss can happen in certain medical health conditions, anxiery, eating disorders andd obsessive compulsive disorder.",
+    "It can also happedn due to problems related to digestion.",
+    "Goiter",
+    "Tuberculosis"
+  ]
+},{
+  "_id": {
+    "$oid": "639373e2e1edb8f867afe3ef"
+  },
+  "name": "rapid heartbeat (tachycardia)",
+  "diseases": [
+    "It can normally happen due to heavy consumption of alcohol or high level of caffeine.",
+    "Can also happen due to high or low blood pressure",
+    "Overactive thyroid",
+    "Goiter"
+  ]
+},{
+  "_id": {
+    "$oid": "639373f7e1edb8f867afe3f0"
+  },
+  "name": "tremors",
+  "diseases": [
+    "It can genrally happen due to heightened emotion, stress. fever, physical exhaustion or low blood sugar. ",
+    "Goiter."
+  ]
+},{
+  "_id": {
+    "$oid": "63937524e1edb8f867afe3f1"
+  },
+  "name": "chest pain",
+  "diseases": [
+    "You can have chest pain even if you have some heart related issues(heart checkup recommended).",
+    "Tuberculosis"
+  ]
+},{
+  "_id": {
+    "$oid": "639379ede1edb8f867afe3f2"
+  },
+  "name": "coughing blood",
+  "diseases": [
+    "The major cause may be chest infection.",
+    "Tuberculosis",
+    "Pneumonia"
+  ]
+},{
+  "_id": {
+    "$oid": "63937ae8e1edb8f867afe3f3"
+  },
+  "name": "headache",
+  "diseases": [
+    "It can occur due to stress and anxiety.",
+    "It can also majorly occur due to cold and flu.",
+    "Migraine",
+    "Dengue Fever",
+    "Influenza"
+  ]
+},{
+  "_id": {
+    "$oid": "63937b8ae1edb8f867afe3f4"
+  },
+  "name": "nausea",
+  "diseases": [
+    "It has many common reasons to occur such as food poisoning, indigestion etc.",
+    "Some of the major diseases include Dengue Fever, Malaria and Migraine."
+  ]
+},{
+  "_id": {
+    "$oid": "63937bb0e1edb8f867afe3f5"
+  },
+  "name": "pulsing sensation",
+  "diseases": [
+    "Migraine"
+  ]
+},{
+  "_id": {
+    "$oid": "63937c13e1edb8f867afe3f6"
+  },
+  "name": "misplace items",
+  "diseases": [
+    "It can genrally happen and there is no harm in it but if it happens frequently then you need to worry a bit.",
+    "Alzheimer's disease."
+  ]
+},{
+  "_id": {
+    "$oid": "63937c61e1edb8f867afe3f7"
+  },
+  "name": "forget about recent conversations or events",
+  "diseases": [
+    "It can genrally happen and there is no harm in it but if it happens frequently they you need to worry a bit.",
+    "Alzheimer's disease."
+  ]
+},{
+  "_id": {
+    "$oid": "63937ccee1edb8f867afe3f8"
+  },
+  "name": "redness of eyes",
+  "diseases": [
+    "Can happen due to improper sleep schedule.",
+    "It can also be side effet of some drugs.",
+    "Conjunctivitis"
+  ]
+},{
+  "_id": {
+    "$oid": "63937d1be1edb8f867afe3f9"
+  },
+  "name": "tearing",
+  "diseases": [
+    "Can happen to sensitive eyes which is normal.",
+    "Can also happen to people suffrening with Conjunctivitis."
+  ]
+},{
+  "_id": {
+    "$oid": "63937e61e1edb8f867afe3fa"
+  },
+  "name": "fever",
+  "diseases": [
+    "It is very common and can happen due to changing weather, some normal bacterial etc.",
+    "It is very normal but if is high or is lasting more than 3-4 days then you need to worry a bit.",
+    "Malaria",
+    "Influenza",
+    "Dengue Fever",
+    "Corona Virus",
+    "Diarrhea"
+  ]
+},{
+  "_id": {
+    "$oid": "63937f97e1edb8f867afe3fb"
+  },
+  "name": "muscle aches",
+  "diseases": [
+    "It can happen due to unexpected excessive work done by the body. There is no need to worry if it happens for a short period of time.",
+    "Malaria",
+    "Monkeypox",
+    "Debgue Fever",
+    "HIV/AIDS",
+    "Monocucleosis"
+  ]
+},{
+  "_id": {
+    "$oid": "63938047e1edb8f867afe3fc"
+  },
+  "name": "coughing",
+  "diseases": [
+    "Can happen due to weather changes or normal virus attack.",
+    "Cold and flu",
+    "Corona Virus",
+    "Influenza",
+    "Asthma"
+  ]
+},{
+  "_id": {
+    "$oid": "63938762e1edb8f867afe3fd"
+  },
+  "name": "sore throat",
+  "diseases": [
+    "It can genrally happen in winters or due to allergies.",
+    "Cold and flu.",
+    "Influenza"
+  ]
+},{
+  "_id": {
+    "$oid": "639387cce1edb8f867afe3fe"
+  },
+  "name": "runny nose",
+  "diseases": [
+    "It is normal in cold and flu.",
+    "It can also happen due to allergy",
+    "Influenza"
+  ]
+},{
+  "_id": {
+    "$oid": "6393883fe1edb8f867afe3ff"
+  },
+  "name": "fatigue",
+  "diseases": [
+    "Can happen due to extra work load on the body.",
+    "Cold and flu",
+    "Corona Virus",
+    "Monocucleosis"
+  ]
+},{
+  "_id": {
+    "$oid": "6393887de1edb8f867afe400"
+  },
+  "name": "sneezing",
+  "diseases": [
+    "Allergy is the major cause of sneezing.",
+    "Cold and flu"
+  ]
+},{
+  "_id": {
+    "$oid": "639388d0e1edb8f867afe401"
+  },
+  "name": "eye irritation",
+  "diseases": [
+    "Can happen due to improper sleep cycle.",
+    "Allergies",
+    "Conjunctivitis"
+  ]
+},{
+  "_id": {
+    "$oid": "63938914e1edb8f867afe402"
+  },
+  "name": "swollen lymph nodes",
+  "diseases": [
+    "Can happen due to infection from bacteria or viruses.",
+    "Monkeypox",
+    "Monocucleosis"
+  ]
+},{
+  "_id": {
+    "$oid": "63938a5ae1edb8f867afe406"
+  },
+  "name": "blood in stool",
+  "diseases": [
+    "Diarrhea"
+  ]
+},{
+  "_id": {
+    "$oid": "63938ad9e1edb8f867afe407"
+  },
+  "name": "abdominal pain",
+  "diseases": [
+    "Diarrhea",
+    "Hepatitis"
+  ]
+},{
+  "_id": {
+    "$oid": "63938af3e1edb8f867afe408"
+  },
+  "name": "light-colored stools",
+  "diseases": [
+    "Hepatitis"
+  ]
+},{
+  "_id": {
+    "$oid": "63938b34e1edb8f867afe409"
+  },
+  "name": "swollen glands",
+  "diseases": [
+    "HIV/AIDS"
+  ]
+},{
+  "_id": {
+    "$oid": "63938ba9e1edb8f867afe40a"
+  },
+  "name": "loss of taste or smell",
+  "diseases": [
+    "Corona Virus"
+  ]
+},{
+  "_id": {
+    "$oid": "63938bf1e1edb8f867afe40b"
+  },
+  "name": "pain when peeing",
+  "diseases": [
+    "Bladder stones may be a major cause",
+    "Sexually transmitted diseases"
+  ]
+},{
+  "_id": {
+    "$oid": "63938c5ae1edb8f867afe40c"
+  },
+  "name": "unusual vaginal bleeding",
+  "diseases": [
+    "Major cause may be Ectopic pregnancy.",
+    "Sexually transmitted diseases"
+  ]
+},{
+  "_id": {
+    "$oid": "63938ccbe1edb8f867afe40d"
+  },
+  "name": "persistent cough or trouble breathing",
+  "diseases": [
+    "If it lasts for a long period, you should go and get checked for cancer."
+  ]
+},{
+  "_id": {
+    "$oid": "63938ce9e1edb8f867afe40e"
+  },
+  "name": "changes in bowel or bladder",
+  "diseases": [
+    "You should go and get checked for cancer."
+  ]
+},{
+  "_id": {
+    "$oid": "63938d1de1edb8f867afe40f"
+  },
+  "name": "lump or area of thickening that can be felt under the skin",
+  "diseases": [
+    "If it lasts for a long period, you should go and get checked for cancer."
+  ]
+},{
+  "_id": {
+    "$oid": "63938d7ae1edb8f867afe410"
+  },
+  "name": "wheezing",
+  "diseases": [
+    "It can happen due to certain allergies.",
+    "Asthma"
+  ]
+},{
+  "_id": {
+    "$oid": "63938da3e1edb8f867afe411"
+  },
+  "name": "fainting",
+  "diseases": [
+    "Can happen due to extreme tiredness.",
+    "Asthma"
+  ]
+},{
+  "_id": {
+    "$oid": "63938ddce1edb8f867afe412"
+  },
+  "name": "dizziness",
+  "diseases": [
+    "Can happen due to some nuerological conditions.",
+    "Asthma"
+  ]
+}]
