@@ -1,9 +1,4 @@
-
-
 [{
-  "_id": {
-    "$oid": "6392e11272c9960a761d632f"
-  },
   "name": "Cholera",
   "desc": "Cholera is an acute diarrheal illness caused by infection of the intestine with Vibrio cholerae bacteria. People can get sick when they swallow food or water contaminated with cholera bacteria. The infection is often mild or without symptoms, but can sometimes be severe and life-threatening.\nCholera is an extremely virulent disease that can cause severe acute watery diarrhoea. It takes between 12 hours and 5 days for a person to show symptoms after ingesting contaminated food or water (2). Cholera affects both children and adults and can kill within hours if untreated",
   "causes": [
@@ -29,10 +24,8 @@
     "low blood pressure",
     "muscle cramps"
   ]
-},{
-  "_id": {
-    "$oid": "6392e90372c9960a761d6331"
-  },
+},
+{
   "name": "Goiter",
   "desc": "Abnormal enlargement of the butterfly-shaped gland below the Adam's apple (thyroid). A goitre commonly develops as a result of iodine deficiency or inflammation of the thyroid gland. Not all goitres cause symptoms. Symptoms that do occur might include swelling and coughing. Rarely, symptoms may include throat tightness or trouble breathing. A small goitre that doesn't cause symptoms may not need treatment. In some cases, medication or surgery is required.",
   "causes": [
@@ -59,10 +52,9 @@
     "muscle weakness",
     "frequent bowel movements"
   ]
-},{
-  "_id": {
-    "$oid": "6392f1e4e1edb8f867afe3d1"
-  },
+},
+{
+  
   "name": "Tuberculosis",
   "desc": "A potentially serious infectious bacterial disease that mainly affects the lungs. The bacteria that cause TB are spread when an infected person coughs or sneezes. Most people infected with the bacteria that cause tuberculosis don't have symptoms. When symptoms do occur, they usually include a cough (sometimes blood-tinged), weight loss, night sweats and fever. Treatment isn't always required for those without symptoms. Patients with active symptoms will require a long course of treatment involving multiple antibiotics.",
   "causes": [
