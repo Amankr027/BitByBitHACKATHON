@@ -109,8 +109,8 @@
     "headache",
     "severe throbbing pain",
     "pulsing sensation",
-    "nausea",
-    "vomiting"
+    "nausea"
+    
   ]
 },{
   "_id": {
@@ -353,8 +353,7 @@
     "muscle pain",
     "bone pain",
     "headache",
-    "nausea",
-    "vomiting"
+    "nausea"
   ]
 },{
   "_id": {

@@ -647,6 +647,23 @@ section {
   height: 3vw;
   border: 2px solid black;
 }
+.main_feature{
+  width: 20vw;
+  height: 3vw;
+  border: 2px solid black;
+  padding: 2px;
+  margin: 10px;
+}
+#abc{
+  width: 10vw;
+  height: 3vw;
+  border: 2px solid black;
+  margin: 10px;
+}
+.super_main{
+  align-items: center;
+  justify-content: center;
+}
 /*--------------------------------------------------------------
 # Cta
 --------------------------------------------------------------*/
